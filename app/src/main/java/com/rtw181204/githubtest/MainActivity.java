@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         getSupportActionBar().setTitle("Nice");
+        
+        
+        //Github에서 
     }
 }
