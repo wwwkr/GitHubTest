@@ -12,8 +12,11 @@ public class MainActivity extends AppCompatActivity {
 
 
         getSupportActionBar().setTitle("Nice");
-        
-        
-        //Github에서 
+
+        //Github에서
+        //추가작업
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+
     }
 }
